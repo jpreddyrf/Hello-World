@@ -1,3 +1,7 @@
+
+This file is to Configure Git to User and clone the files
+---------------------------------------------------------
+
 JP REDDY@JPREDDY MINGW64 /c
 $ cd git
 
