@@ -1,0 +1,61 @@
+JP REDDY@JPREDDY MINGW64 /c
+$ cd git
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ ls
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config --global user.name "jpreddyrf"
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config user.email jpreddyrf@gmail.com
+fatal: not in a git directory
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config user.password Git!234
+bash: !234: event not found
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config user.email jpreddyrf@gmail.com
+fatal: not in a git directory
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ ls
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config user.email 43716622+jpreddyrf@users.noreply.github.com
+fatal: not in a git directory
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git config --global user.email jpreddyrf@gmail.com
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ git clone https://github.com/jpreddyrf/Hello-World.git
+Cloning into 'Hello-World'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ ls
+Hello-World/
+
+JP REDDY@JPREDDY MINGW64 /c/git
+$ cd Hello-World
+
+JP REDDY@JPREDDY MINGW64 /c/git/Hello-World (master)
+$ ls
+README.md
+
+JP REDDY@JPREDDY MINGW64 /c/git/Hello-World (master)
+$ cat readme.md
+# Hello-World
+Hello world is Practicing Java-Automation-Selenium
+
+This is for practicing Front End and Back End Testing using
+java code repository
+
+JP REDDY@JPREDDY MINGW64 /c/git/Hello-World (master)
+$
