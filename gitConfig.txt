@@ -9,32 +9,32 @@ JP REDDY@JPREDDY MINGW64 /c/git
 $ ls
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config --global user.name "jpreddyrf"
+$ git config --global user.name "*************"
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config user.email jpreddyrf@gmail.com
+$ git config user.email ********************
 fatal: not in a git directory
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config user.password Git!234
+$ git config user.password ***************
 bash: !234: event not found
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config user.email jpreddyrf@gmail.com
+$ git config user.email **************
 fatal: not in a git directory
 
 JP REDDY@JPREDDY MINGW64 /c/git
 $ ls
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config user.email 43716622+jpreddyrf@users.noreply.github.com
+$ git config user.email ***************
 fatal: not in a git directory
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git config --global user.email jpreddyrf@gmail.com
+$ git config --global user.email ******************
 
 JP REDDY@JPREDDY MINGW64 /c/git
-$ git clone https://github.com/jpreddyrf/Hello-World.git
+$ git clone https://github.com/***********/Hello-World.git
 Cloning into 'Hello-World'...
 remote: Enumerating objects: 7, done.
 remote: Counting objects: 100% (7/7), done.
